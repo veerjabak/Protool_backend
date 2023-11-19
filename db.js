@@ -9,6 +9,3 @@ const connectToMongo = () => {
 };
 
 module.exports = connectToMongo;
-
-// mongo cloud URI: 'mongodb+srv://promag:<password>@cluster0.tiibnnq.mongodb.net/'
-// const mongoURI = 'mongodb://localhost:27017/ProjectManagementTool?readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false'
